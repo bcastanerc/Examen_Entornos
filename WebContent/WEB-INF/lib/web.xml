@@ -1,0 +1,13 @@
+<web-app>
+
+	<servlet>
+	  <servlet-name>ToloCastaner</servlet-name>
+	  <servlet-class>ejercicio_examen_paquete.ToloCastaner</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+	  <servlet-name>ToloCastaner</servlet-name>
+	  <servlet-class>/index.jsp</servlet-class>
+	</servlet-mapping>
+	
+</web-app>
